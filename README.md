@@ -26,7 +26,7 @@
   
 </ul>
 
-<h2">Instalação e Uso</h2>
+<h2>Instalação e Uso</h2>
 <p>Clone este repositório</p>
 <ul>
   <li >git clone https://github.com/Julio-Lauwers/projeto-toughts</li>
